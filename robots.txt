@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.tcljlk.cn/sitemap.xml
